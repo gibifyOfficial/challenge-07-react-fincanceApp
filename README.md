@@ -4,7 +4,7 @@
 
 ## Sobre
 
-#### Essa aplicação é uma aplicação de finanças, onde será possível você importar arquivos .CSV, ver seus ganhos, gastos e o balanço da suas despesas. Essa aplicaação se conecta com uma API desenvolvida em Node [acesse aqui](https://github.com/gibify/challenge-06-gostack).
+#### Essa aplicação é uma app de finanças, onde será possível você importar arquivos .CSV, ver seus ganhos, gastos e o balanço da suas despesas. Essa aplicação se conecta com uma API desenvolvida em Node [acesse aqui](https://github.com/gibify/challenge-06-gostack).
 
 ## Layout: 
 
@@ -15,7 +15,7 @@
 ```shell
 
 # clonando o repositório na sua máquina
-git clone 
+git clone https://github.com/gibify/challenge-07-gostack.git
 
 # acessando a pasta
 cd web
@@ -28,3 +28,10 @@ yarn start
 
 # esssa apliacação se iniciará na porta 3000 <http://ocalhost:3000>
 ```
+
+## Tecnologias usadas:
+* [ReactJS](https://reactjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+* []()
+
+Acesse o [Packege.json]()
