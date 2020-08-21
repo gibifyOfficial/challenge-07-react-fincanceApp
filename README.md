@@ -26,7 +26,7 @@ yarn
 # rodando a aplicação na sua máquina
 yarn start
 
-# esssa apliacação se iniciará na porta 3000 <http://ocalhost:3000>
+# esssa apliacação se iniciará na porta 3000 <http://localhost:3000>
 ```
 
 ## 🔧 Tecnologias usadas:
