@@ -36,4 +36,4 @@ yarn start
 Acesse o [Packege.json](https://github.com/gibify/challenge-07-gostack/blob/master/package.json)
 
 ## Autor:
-[Evandro Gibicoski]()
+[Evandro Gibicoski](https://github.com/gibify)
