@@ -29,9 +29,8 @@ yarn start
 # esssa apliacação se iniciará na porta 3000 <http://ocalhost:3000>
 ```
 
-## Tecnologias usadas:
+## 🔧 Tecnologias usadas:
 * [ReactJS](https://reactjs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
-* []()
 
-Acesse o [Packege.json]()
+Acesse o [Packege.json](https://github.com/gibify/challenge-07-gostack/blob/master/package.json)
